@@ -20,6 +20,7 @@
 		BBF6061725C32FCC00BAD5CB /* calculadora_imc2.png in Resources */ = {isa = PBXBuildFile; fileRef = BBF6061425C32FCC00BAD5CB /* calculadora_imc2.png */; };
 		BBF6061825C32FCC00BAD5CB /* calculadora_imc3.png in Resources */ = {isa = PBXBuildFile; fileRef = BBF6061525C32FCC00BAD5CB /* calculadora_imc3.png */; };
 		BBF6061925C32FCC00BAD5CB /* calculadora_imc1.png in Resources */ = {isa = PBXBuildFile; fileRef = BBF6061625C32FCC00BAD5CB /* calculadora_imc1.png */; };
+		BBF6061C25C330AD00BAD5CB /* calculadora_imc4.png in Resources */ = {isa = PBXBuildFile; fileRef = BBF6061B25C330AD00BAD5CB /* calculadora_imc4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		BBF6061425C32FCC00BAD5CB /* calculadora_imc2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calculadora_imc2.png; sourceTree = "<group>"; };
 		BBF6061525C32FCC00BAD5CB /* calculadora_imc3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calculadora_imc3.png; sourceTree = "<group>"; };
 		BBF6061625C32FCC00BAD5CB /* calculadora_imc1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calculadora_imc1.png; sourceTree = "<group>"; };
+		BBF6061B25C330AD00BAD5CB /* calculadora_imc4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calculadora_imc4.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				AD0B9F84230D61840065EFD9 /* LaunchScreen.storyboard */,
 				AD0B9F87230D61840065EFD9 /* Info.plist */,
 				BBF6061625C32FCC00BAD5CB /* calculadora_imc1.png */,
+				BBF6061B25C330AD00BAD5CB /* calculadora_imc4.png */,
 				BBF6061425C32FCC00BAD5CB /* calculadora_imc2.png */,
 				BBF6061525C32FCC00BAD5CB /* calculadora_imc3.png */,
 			);
@@ -176,6 +179,7 @@
 				AD64359A2312D0BC00E22B00 /* README.md in Resources */,
 				BBF6061825C32FCC00BAD5CB /* calculadora_imc3.png in Resources */,
 				BBF6061725C32FCC00BAD5CB /* calculadora_imc2.png in Resources */,
+				BBF6061C25C330AD00BAD5CB /* calculadora_imc4.png in Resources */,
 				AD0B9F81230D61800065EFD9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
