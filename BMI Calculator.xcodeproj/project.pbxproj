@@ -17,6 +17,9 @@
 		BB09650724F496EB004A3158 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB09650624F496EB004A3158 /* ResultViewController.swift */; };
 		BB58CA5424F4B8DF00095A95 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB58CA5324F4B8DF00095A95 /* CalculatorBrain.swift */; };
 		BB58CA5624F4D01200095A95 /* BMI.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB58CA5524F4D01200095A95 /* BMI.swift */; };
+		BBF6061725C32FCC00BAD5CB /* calculadora_imc2.png in Resources */ = {isa = PBXBuildFile; fileRef = BBF6061425C32FCC00BAD5CB /* calculadora_imc2.png */; };
+		BBF6061825C32FCC00BAD5CB /* calculadora_imc3.png in Resources */ = {isa = PBXBuildFile; fileRef = BBF6061525C32FCC00BAD5CB /* calculadora_imc3.png */; };
+		BBF6061925C32FCC00BAD5CB /* calculadora_imc1.png in Resources */ = {isa = PBXBuildFile; fileRef = BBF6061625C32FCC00BAD5CB /* calculadora_imc1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +35,9 @@
 		BB09650624F496EB004A3158 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = SOURCE_ROOT; };
 		BB58CA5324F4B8DF00095A95 /* CalculatorBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = SOURCE_ROOT; };
 		BB58CA5524F4D01200095A95 /* BMI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BMI.swift; sourceTree = SOURCE_ROOT; };
+		BBF6061425C32FCC00BAD5CB /* calculadora_imc2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calculadora_imc2.png; sourceTree = "<group>"; };
+		BBF6061525C32FCC00BAD5CB /* calculadora_imc3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calculadora_imc3.png; sourceTree = "<group>"; };
+		BBF6061625C32FCC00BAD5CB /* calculadora_imc1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calculadora_imc1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +79,9 @@
 				AD0B9F82230D61840065EFD9 /* Assets.xcassets */,
 				AD0B9F84230D61840065EFD9 /* LaunchScreen.storyboard */,
 				AD0B9F87230D61840065EFD9 /* Info.plist */,
+				BBF6061625C32FCC00BAD5CB /* calculadora_imc1.png */,
+				BBF6061425C32FCC00BAD5CB /* calculadora_imc2.png */,
+				BBF6061525C32FCC00BAD5CB /* calculadora_imc3.png */,
 			);
 			path = "BMI Calculator";
 			sourceTree = "<group>";
@@ -162,8 +171,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD0B9F86230D61840065EFD9 /* LaunchScreen.storyboard in Resources */,
+				BBF6061925C32FCC00BAD5CB /* calculadora_imc1.png in Resources */,
 				AD0B9F83230D61840065EFD9 /* Assets.xcassets in Resources */,
 				AD64359A2312D0BC00E22B00 /* README.md in Resources */,
+				BBF6061825C32FCC00BAD5CB /* calculadora_imc3.png in Resources */,
+				BBF6061725C32FCC00BAD5CB /* calculadora_imc2.png in Resources */,
 				AD0B9F81230D61800065EFD9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
